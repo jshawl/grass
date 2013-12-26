@@ -29,5 +29,21 @@ media queries / breakpoints not being reused.
 
 You should use a mixin of post-processor.
 
+### Selectors appearing in more than one file:
+
+    afile.scss:
+    
+    .selector{
+      //stuff
+    }
+    
+    
+    
+    anotherfile.scss:
+    
+    .selector{
+      //some more stuff
+    }
+
 
 
