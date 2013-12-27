@@ -1,0 +1,13 @@
+{
+  "name": "grass",
+  "version": "0.0.1",
+  "description": "A sass quality assurance tool",
+  "author": "Jesse Shawl http://jesse.sh/awl/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jshawl/grass.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
